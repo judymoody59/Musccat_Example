@@ -9,11 +9,11 @@ Scholar Connect
 ddd
 ## 3. 팀원
 
-[BE](https://github.com/Musccat/Musccat_Project_BE)
-이서연 
+이서연
 변하영
-
-[FE](https://github.com/Musccat/Musccat_Project_FE)
 채민주
+
+## 4. 기술 스택
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
