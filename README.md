@@ -1,5 +1,6 @@
 ## 1. 프로젝트명
 Scholar Connect
+
 <img src="https://github.com/judymoody59/Musccat_Example/assets/108432112/480842ee-9f8f-47ea-9ae1-8db35515fe14" width="600" height="400" />
 
 
