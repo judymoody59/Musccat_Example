@@ -26,7 +26,7 @@
 
 [채민주](https://github.com/judymoody59) 
 
-## 기술 검증
+## 기능
 
 
 ## 기술 스택
