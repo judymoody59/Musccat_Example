@@ -10,8 +10,10 @@ ddd
 ## 👩‍💻 팀원
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/67866773?v=4">
 [이서연](https://github.com/SeoYeomm)
+
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/67866773?v=4">
 [변하영](https://github.com/hayong39)
+
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/67866773?v=4">
 [채민주](https://github.com/judymoody59)
 
