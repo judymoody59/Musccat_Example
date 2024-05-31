@@ -9,9 +9,9 @@ Scholar Connect
 ddd
 ## 3. 팀원
 
-이서연
-변하영
-채민주
+- 이서연
+- 변하영
+- 채민주
 
 ## 4. 기술 스택
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
