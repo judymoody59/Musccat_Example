@@ -10,15 +10,13 @@
 ## 👩‍💻 팀원
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/67866773?v=4">
 
-[이서연](https://github.com/SeoYeomm)<br>
-<br>
+[이서연](https://github.com/SeoYeomm)<br>AI<br>
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/67866773?v=4">
 
 [변하영](https://github.com/hayong39) <br>웹크롤링<br>
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/67866773?v=4">
 
 [채민주](https://github.com/judymoody59) <br>와이어프레임 제작<br>
-<br>
 <br>
 ## 4. 기술 스택
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
