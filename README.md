@@ -9,6 +9,19 @@
 
 
 ## 팀원
+
+<div align="center">
+
+|                                                              **변하영(2365)**                                                               |                                                          **이서연(4494)**                                                           |                                                           **채민주(1386)**                                                            |
+| :————————————————————————————————————————————————————————————————————: | :————————————————————————————————————————————————————————————————: | :—————————————————————————————————————————————————————————————————: |
+| [<img src="https://avatars.githubusercontent.com/SeoYeomm" height=150 width=150> <br/> @SeoYeomm](https://github.com/SeoYeomm) | [<img src="https://avatars.githubusercontent.com/hayong39" height=150 width=150> <br/> @hayong39](https://github.com/hayong39) | [<img src="https://avatars.githubusercontent.com/judymoody59" height=150 width=150> <br/> @judymoody59](https://github.com/judymoody59) |
+
+</div>
+
+
+
+
+
 <br>
 <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/67866773?v=4"> 
 
