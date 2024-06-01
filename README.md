@@ -17,7 +17,7 @@
         <td width="10%" align="center"><a href= "https://github.com/judymoody59" width="100px">채민주</a></td>
     </tr>
     <tr width="100%">
-        <td width="10%" align="center"><img src = "https://avatars.githubusercontent.com/SeoYeomm)"></td>
+        <td width="10%" align="center"><img src = "https://avatars.githubusercontent.com/SeoYeomm"></td>
         <td width="10%" align="center"><img src = "https://avatars.githubusercontent.com/hayong39"/></td>
         <td width="10%" align="center"><img src = "https://avatars.githubusercontent.com/judymoody59"/></td>
     </tr>
