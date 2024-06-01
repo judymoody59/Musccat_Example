@@ -1,4 +1,4 @@
-## 프로젝트명: Scholar Connect
+## 프로젝트명: MYSCHOLRS
 
 <img src="https://github.com/judymoody59/Musccat_Example/assets/108432112/88a11d1d-c27c-4bef-920d-fdb0b213f21d" width="300" height="100" />
 <br>
@@ -22,7 +22,7 @@
         <td width="10%" align="center"><img src = "https://avatars.githubusercontent.com/judymoody59"/></td>
     </tr>
     <tr width="100%">
-        <td width="10%" align="center">AI & BE</td>
+        <td width="10%" align="center">AI & [BE](https://github.com/Musccat/Musccat_Project_BE)</td>
         <td width="10%" align="center">AI & BE</td>
         <td width="10%" align="center">FE</td>
    </tr>
@@ -30,7 +30,13 @@
 
 
 ## 기능
+<h3>통합된 데이터</h3>
 
+<h3>맞춤형 추천 시스템</h3>
+
+<h3>지원서 작성 팁 제공</h3>
+
+<h3>AI 기반 지원서 작성</h3>
 
 ## 기술 스택
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
