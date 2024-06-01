@@ -10,34 +10,24 @@
 
 ## 팀원
 
-<div align="center">
+<table border="1" cellspacing="0" cellpadding="0" width="90%">
+    <tr width="100%">
+        <td width="10%" align="center"><a href= "https://github.com/SeoYeomm">이서연</a></td>
+        <td width="10%" align="center"><a href= "https://github.com/hayong39">변하영</a></td>
+        <td width="10%" align="center"><a href= "https://github.com/judymoody59" width="100px">채민주</a></td>
+    </tr>
+    <tr width="100%">
+        <td width="10%" align="center"><img src = "https://avatars.githubusercontent.com/SeoYeomm)"></td>
+        <td width="10%" align="center"><img src = "https://avatars.githubusercontent.com/hayong39"/></td>
+        <td width="10%" align="center"><img src = "https://avatars.githubusercontent.com/judymoody59"/></td>
+    </tr>
+    <tr width="100%">
+        <td width="10%" align="center">AI & BE</td>
+        <td width="10%" align="center">AI & BE</td>
+        <td width="10%" align="center">FE</td>
+   </tr>
+</table>
 
-|                                                              **변하영(2365)**                                                               |                                                          **이서연(4494)**                                                           |                                                           **채민주(1386)**                                                            |
-| :————————————————————————————————————————————————————————————————————: | :————————————————————————————————————————————————————————————————: | :—————————————————————————————————————————————————————————————————: |
-| [<img src="https://avatars.githubusercontent.com/SeoYeomm" height=150 width=150> <br/> @SeoYeomm](https://github.com/SeoYeomm) | [<img src="https://avatars.githubusercontent.com/hayong39" height=150 width=150> <br/> @hayong39](https://github.com/hayong39) | [<img src="https://avatars.githubusercontent.com/judymoody59" height=150 width=150> <br/> @judymoody59](https://github.com/judymoody59) |
-
-</div>
-
-
-
-
-
-<br>
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/67866773?v=4"> 
-
-[이서연](https://github.com/SeoYeomm) 
-
-<br>
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/67866773?v=4"> 
-
-[변하영](https://github.com/hayong39)
-
-<br>
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/67866773?v=4">
-
-[채민주](https://github.com/judymoody59) 
 
 ## 기능
 
