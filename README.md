@@ -37,11 +37,13 @@
 </table>
 
 
-## 포지션
+## 개발 레포지토리
 
-#### [BE](https://github.com/Musccat/Musccat_Project_BE)
+### 백엔드
+  - [Musccat_Project_BE](https://github.com/Musccat/Musccat_Project_BE)
+### 프론트엔드
+  - [Musccat_Project_FE](https://github.com/Musccat/Musccat_Project_FE)
 
-#### [FE](https://github.com/Musccat/Musccat_Project_FE)
 
 
 ## 기술 스택
