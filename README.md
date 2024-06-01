@@ -70,3 +70,21 @@
 <br>
 
 ## ⚙️ 개발환경 설정
+
+#### 백엔드 실행 터미널
+```
+python -m venv "이름" #가상 환경 시작 
+source "이름"/Scripts/activate #가상 환경으로 이동
+
+django-admin startproject "프로젝트 이름" #프로젝트 시작
+python manage.py startapp "앱 이름" #앱 시작
+
+python manage.py runserver #서버 시작 
+
+```
+
+#### 프론트엔드 실행 터미널
+```
+$ npx create-react-app <프로젝트 이름> // React 웹 애플리케이션 프로그램 생성
+$ npm start // 애플리케이션 실행
+```
