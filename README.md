@@ -16,6 +16,8 @@
 
 - AI 기반 지원서 작성 : 생성형 AI 기술을 활용하여 사용자가 지정한 작성 방향을 바탕으로 지원서를 작성
 
+<br>
+
 ## 👩‍💻 팀원
 
 <table border="1" cellspacing="0" cellpadding="0" width="90%">
@@ -36,6 +38,7 @@
    </tr>
 </table>
 
+<br>
 
 ## 🗃️ 개발 레포지토리
 
@@ -44,9 +47,12 @@
 ### 프론트엔드
   - [Musccat_Project_FE](https://github.com/Musccat/Musccat_Project_FE)
 
+<br>
 
 
 ## 🛠️ 기술 스택
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
+<br>
 
+## 개발환경 설정
