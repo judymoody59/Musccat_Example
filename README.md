@@ -1,6 +1,6 @@
-## 📍 프로젝트명: MYSCHOLRS
+## 📍 프로젝트명: SCHOLLI
 
-<img src="https://github.com/judymoody59/Musccat_Example/assets/108432112/88a11d1d-c27c-4bef-920d-fdb0b213f21d" width="300" height="100" />
+<img src="https://github.com/judymoody59/Musccat_Example/assets/108432112/b8bf2704-748e-4b22-9140-5c4692dd2db9" width="300" height="300" />
 <br>
 <br>
 
