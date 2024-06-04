@@ -78,22 +78,33 @@
 python -m venv "이름" #가상 환경 시작
 ```
 <br>
+
 가상환경을 생성했다면 활성화하여 해당 환경 내에서 작업할 수 있도록 이동한다.
+
 ```
 source "이름"/Scripts/activate #가상 환경으로 이동
 ```
+
 <br>
+
 가상 환경이 활성화된 상태에서 Django 프로젝트를 생성한다.
+
 ```
 django-admin startproject "프로젝트 이름" #프로젝트 시작
 ```
+
 <br>
+
 Django 프로젝트 내에서 실제로 기능을 구현하는 단위인 앱을 생성한다.
+
 ```
 python manage.py startapp "앱 이름" #앱 시작
 ```
+
 <br>
+
 모든 설정이 완료되면 Django 개발 서버를 실행한다.
+
 ```
 python manage.py runserver #서버 시작 
 ```
