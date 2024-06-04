@@ -111,8 +111,13 @@ python manage.py runserver #서버 시작
 
 #### 프론트엔드 실행 터미널
 
+create-react-app(CRA)를 이용하기 위해선 Node.js 와 npm 설치가 되어있어야 한다.
 
+- npm(node package manager) v6. 14.0 이상
+- Node.js (JavaScript runtime) 14.0.0 이상
+
+설치가 모두 완료되었다면 npx 명령어를 통해 CRA를 실행할 수 있다.
 ```
-$ npx create-react-app <프로젝트 이름> // React 웹 애플리케이션 프로그램 생성
-$ npm start // 애플리케이션 실행
+npx create-react-app <프로젝트 이름> // React 웹 애플리케이션 프로그램 생성
+npm start // 애플리케이션 실행
 ```
